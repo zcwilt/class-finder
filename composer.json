@@ -1,5 +1,5 @@
 {
-    "name": "danog/class-finder",
+    "name": "zcwilt/class-finder",
     "description": "Fork of haydenpierce/class-finder with support for traits, interfaces and functions",
     "type": "library",
     "license": "MIT",
@@ -23,8 +23,8 @@
     },
     "autoload": {
         "psr-4": {
-            "danog\\ClassFinder\\": "src/",
-            "danog\\ClassFinder\\UnitTest\\": "test/unit"
+            "zcwilt\\ClassFinder\\": "src/",
+            "zcwilt\\ClassFinder\\UnitTest\\": "test/unit"
         }
     }
 }
