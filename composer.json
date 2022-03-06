@@ -23,8 +23,10 @@
     },
     "autoload": {
         "psr-4": {
-            "zcwilt\\ClassFinder\\": "src/",
-            "zcwilt\\ClassFinder\\UnitTest\\": "test/unit"
+            "danog\\ClassFinder\\": "src/",
+            "danog\\ClassFinder\\UnitTest\\": "test/unit"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
